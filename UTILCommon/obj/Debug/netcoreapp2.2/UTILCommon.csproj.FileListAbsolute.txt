@@ -1,0 +1,16 @@
+G:/Projetos/SincLog/Applications/Microservices/Shared/UTILCommon/bin/Debug/netcoreapp2.2/UTILCommon.deps.json
+G:/Projetos/SincLog/Applications/Microservices/Shared/UTILCommon/bin/Debug/netcoreapp2.2/UTILCommon.dll
+G:/Projetos/SincLog/Applications/Microservices/Shared/UTILCommon/bin/Debug/netcoreapp2.2/UTILCommon.pdb
+G:/Projetos/SincLog/Applications/Microservices/Shared/UTILCommon/obj/Debug/netcoreapp2.2/UTILCommon.AssemblyInfoInputs.cache
+G:/Projetos/SincLog/Applications/Microservices/Shared/UTILCommon/obj/Debug/netcoreapp2.2/UTILCommon.AssemblyInfo.cs
+G:/Projetos/SincLog/Applications/Microservices/Shared/UTILCommon/obj/Debug/netcoreapp2.2/UTILCommon.dll
+G:/Projetos/SincLog/Applications/Microservices/Shared/UTILCommon/obj/Debug/netcoreapp2.2/UTILCommon.pdb
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/UTILCommon/bin/Debug/netcoreapp2.2/UTILCommon.deps.json
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/UTILCommon/bin/Debug/netcoreapp2.2/UTILCommon.dll
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/UTILCommon/bin/Debug/netcoreapp2.2/UTILCommon.pdb
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/UTILCommon/obj/Debug/netcoreapp2.2/UTILCommon.csprojAssemblyReference.cache
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/UTILCommon/obj/Debug/netcoreapp2.2/UTILCommon.csproj.CoreCompileInputs.cache
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/UTILCommon/obj/Debug/netcoreapp2.2/UTILCommon.AssemblyInfoInputs.cache
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/UTILCommon/obj/Debug/netcoreapp2.2/UTILCommon.AssemblyInfo.cs
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/UTILCommon/obj/Debug/netcoreapp2.2/UTILCommon.dll
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/UTILCommon/obj/Debug/netcoreapp2.2/UTILCommon.pdb

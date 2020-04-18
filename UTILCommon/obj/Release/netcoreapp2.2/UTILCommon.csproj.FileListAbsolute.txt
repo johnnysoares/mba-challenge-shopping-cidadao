@@ -1,0 +1,9 @@
+G:\Projetos\SincLog\Applications\Microservices\Shared\UTILCommon\bin\Release\netcoreapp2.2\UTILCommon.deps.json
+G:\Projetos\SincLog\Applications\Microservices\Shared\UTILCommon\bin\Release\netcoreapp2.2\UTILCommon.dll
+G:\Projetos\SincLog\Applications\Microservices\Shared\UTILCommon\bin\Release\netcoreapp2.2\UTILCommon.pdb
+G:\Projetos\SincLog\Applications\Microservices\Shared\UTILCommon\obj\Release\netcoreapp2.2\UTILCommon.csprojAssemblyReference.cache
+G:\Projetos\SincLog\Applications\Microservices\Shared\UTILCommon\obj\Release\netcoreapp2.2\UTILCommon.csproj.CoreCompileInputs.cache
+G:\Projetos\SincLog\Applications\Microservices\Shared\UTILCommon\obj\Release\netcoreapp2.2\UTILCommon.AssemblyInfoInputs.cache
+G:\Projetos\SincLog\Applications\Microservices\Shared\UTILCommon\obj\Release\netcoreapp2.2\UTILCommon.AssemblyInfo.cs
+G:\Projetos\SincLog\Applications\Microservices\Shared\UTILCommon\obj\Release\netcoreapp2.2\UTILCommon.dll
+G:\Projetos\SincLog\Applications\Microservices\Shared\UTILCommon\obj\Release\netcoreapp2.2\UTILCommon.pdb

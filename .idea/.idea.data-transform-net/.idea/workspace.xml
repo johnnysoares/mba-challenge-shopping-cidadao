@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b15e4449-d7e8-472d-b418-c593a569ad88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WEB/Controllers/SenhaController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WEB/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WEB/Controllers/ErrorsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Atendimentos/Services/BuscadorDados.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WEB/Controllers/SenhaDadosController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WEB/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/_Core/DI/StartupDIBLL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Pracas/Entities/Praca.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Pracas/ConstEnums/PracaConst.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Atividades/Entities/Atividade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Atendimentos/Jobs/JobBuscadorSenhaMG.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Atendimentos/Jobs/JobBuscadorDadosCE.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Atendimentos/Jobs/JobBuscadorSenhaCE.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Atendimentos/Jobs/JobBuscadorSenhaRJ.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Atendimentos/Entities/SequenciaBusca.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Atendimentos/Entities/Atendimento.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Atendimentos/Services/BuscadorBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Atendimentos/Services/BuscadorSenha.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/_Core/AcessData/DataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WEB/Core/API/Controllers/BaseApiController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WEB/_Core/DI/StartupDIJobs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WEB/_Core/DI/StartupWeb.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WEB/_Core/DI/StartupDI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UTILCommon/Extensions/Default/NumberExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WEB/Controllers/AtividadeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WEB/_Core/Logging/LoggerDefault.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UTILCommon/Extensions/Default/StringExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Atividades/Services/AtividadeMigracao.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WEB/Controllers/ErrorsController.cs" />
+        <option value="$PROJECT_DIR$/WEB/_Core/Logging/LoggerDefault.cs" />
+        <option value="$PROJECT_DIR$/WEB/_Core/DI/StartupDI.cs" />
+        <option value="$PROJECT_DIR$/WEB/_Core/DI/StartupJobs.cs" />
+        <option value="$PROJECT_DIR$/BLL/Atendimentos/Jobs/JobSenderSinclog.cs" />
+        <option value="$PROJECT_DIR$/WEB/Startup.cs" />
+        <option value="$PROJECT_DIR$/BLL/Atividades/Entities/Atividade.cs" />
+        <option value="$PROJECT_DIR$/BLL/Pracas/Entities/Praca.cs" />
+        <option value="$PROJECT_DIR$/BLL/Pracas/ConstEnums/PracaConst.cs" />
+        <option value="$PROJECT_DIR$/WEB/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/WEB/Controllers/AtividadeController.cs" />
+        <option value="$PROJECT_DIR$/BLL/Atividades/Services/AtividadeMigracao.cs" />
+        <option value="$PROJECT_DIR$/BLL/Atendimentos/Entities/SequenciaBusca.cs" />
+        <option value="$PROJECT_DIR$/BLL/Atendimentos/Jobs/JobBuscadorSenha.cs" />
+        <option value="$PROJECT_DIR$/BLL/Atendimentos/Jobs/JobBuscadorSenhaMG.cs" />
+        <option value="$PROJECT_DIR$/BLL/Atendimentos/Jobs/JobBuscadorSenhaRJ.cs" />
+        <option value="$PROJECT_DIR$/WEB/Controllers/SenhaController.cs" />
+        <option value="$PROJECT_DIR$/BLL/Atendimentos/Services/BuscadorSenha.cs" />
+        <option value="$PROJECT_DIR$/BLL/Atendimentos/Jobs/JobBuscadorSenhaCE.cs" />
+        <option value="$PROJECT_DIR$/BLL/Atendimentos/Services/BuscadorBase.cs" />
+        <option value="$PROJECT_DIR$/BLL/_Core/DI/StartupDIBLL.cs" />
+        <option value="$PROJECT_DIR$/WEB/Controllers/SenhaDadosController.cs" />
+        <option value="$PROJECT_DIR$/BLL/Atendimentos/Jobs/JobBuscadorDadosCE.cs" />
+        <option value="$PROJECT_DIR$/BLL/Atendimentos/Entities/Atendimento.cs" />
+        <option value="$PROJECT_DIR$/WEB/appsettings.json" />
+        <option value="$PROJECT_DIR$/DAL/_Core/AcessData/DataContext.cs" />
+        <option value="$PROJECT_DIR$/BLL/Atendimentos/Services/BuscadorDados.cs" />
+        <option value="$PROJECT_DIR$/WEB/local-log.txt" />
+        <option value="$PROJECT_DIR$/WEB/_Core/DI/StartupDIJobs.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aQO12WnFKk4cvhDEKjVpxcLxAv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34996718" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30006567" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UTILCommon/UTILCommon.csproj" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.WEB">
+    <configuration name="WEB" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WEB/WEB.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="WEB" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="WEB: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WEB/WEB.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b15e4449-d7e8-472d-b418-c593a569ad88" name="Default Changelist" comment="" />
+      <created>1587059542457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587059542457</updated>
+      <workItem from="1587059553953" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="558" height="540" key="DebuggerActiveHint" timestamp="1587050951459">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="558" height="540" key="DebuggerActiveHint/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587050951459" />
+    <state width="524" height="540" key="DebuggerActiveHint/0.27.1600.832@0.27.1600.832" timestamp="1586901175364" />
+    <state x="583" y="200" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586664696732">
+      <screen x="0" y="27" width="1600" height="832" />
+    </state>
+    <state x="583" y="200" width="424" height="484" key="FileChooserDialogImpl/0.27.1600.832@0.27.1600.832" timestamp="1586664696732" />
+    <state width="1554" height="282" key="GridCell.Tab.0.bottom" timestamp="1587059575614">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="282" key="GridCell.Tab.0.bottom/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587059575614" />
+    <state width="1554" height="239" key="GridCell.Tab.0.bottom/0.207.3520.832@0.207.3520.832" timestamp="1586987385975" />
+    <state width="1554" height="231" key="GridCell.Tab.0.bottom/0.27.1600.832@0.27.1600.832" timestamp="1586904323481" />
+    <state width="1554" height="282" key="GridCell.Tab.0.center" timestamp="1587059575614">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="282" key="GridCell.Tab.0.center/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587059575614" />
+    <state width="1554" height="239" key="GridCell.Tab.0.center/0.207.3520.832@0.207.3520.832" timestamp="1586987385975" />
+    <state width="1554" height="231" key="GridCell.Tab.0.center/0.27.1600.832@0.27.1600.832" timestamp="1586904323480" />
+    <state width="1554" height="282" key="GridCell.Tab.0.left" timestamp="1587059575614">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="282" key="GridCell.Tab.0.left/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587059575614" />
+    <state width="1554" height="239" key="GridCell.Tab.0.left/0.207.3520.832@0.207.3520.832" timestamp="1586987385974" />
+    <state width="1554" height="231" key="GridCell.Tab.0.left/0.27.1600.832@0.27.1600.832" timestamp="1586904323480" />
+    <state width="1554" height="282" key="GridCell.Tab.0.right" timestamp="1587059575614">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="282" key="GridCell.Tab.0.right/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587059575614" />
+    <state width="1554" height="239" key="GridCell.Tab.0.right/0.207.3520.832@0.207.3520.832" timestamp="1586987385975" />
+    <state width="1554" height="231" key="GridCell.Tab.0.right/0.27.1600.832@0.27.1600.832" timestamp="1586904323480" />
+    <state width="1554" height="216" key="GridCell.Tab.1.bottom" timestamp="1587051419273">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.1.bottom/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419273" />
+    <state width="1554" height="239" key="GridCell.Tab.1.bottom/0.207.3520.832@0.207.3520.832" timestamp="1586987385976" />
+    <state width="1554" height="239" key="GridCell.Tab.1.bottom/0.27.1600.832@0.27.1600.832" timestamp="1586901398512" />
+    <state width="1554" height="216" key="GridCell.Tab.1.center" timestamp="1587051419272">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.1.center/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419272" />
+    <state width="1554" height="239" key="GridCell.Tab.1.center/0.207.3520.832@0.207.3520.832" timestamp="1586987385975" />
+    <state width="1554" height="239" key="GridCell.Tab.1.center/0.27.1600.832@0.27.1600.832" timestamp="1586901398511" />
+    <state width="1554" height="216" key="GridCell.Tab.1.left" timestamp="1587051419272">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.1.left/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419272" />
+    <state width="1554" height="239" key="GridCell.Tab.1.left/0.207.3520.832@0.207.3520.832" timestamp="1586987385975" />
+    <state width="1554" height="239" key="GridCell.Tab.1.left/0.27.1600.832@0.27.1600.832" timestamp="1586901398511" />
+    <state width="1554" height="216" key="GridCell.Tab.1.right" timestamp="1587051419272">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.1.right/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419272" />
+    <state width="1554" height="239" key="GridCell.Tab.1.right/0.207.3520.832@0.207.3520.832" timestamp="1586987385976" />
+    <state width="1554" height="239" key="GridCell.Tab.1.right/0.27.1600.832@0.27.1600.832" timestamp="1586901398511" />
+    <state width="1554" height="216" key="GridCell.Tab.2.bottom" timestamp="1587051419273">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.2.bottom/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419273" />
+    <state width="1554" height="239" key="GridCell.Tab.2.bottom/0.207.3520.832@0.207.3520.832" timestamp="1586987385977" />
+    <state width="1554" height="239" key="GridCell.Tab.2.bottom/0.27.1600.832@0.27.1600.832" timestamp="1586901398512" />
+    <state width="1554" height="216" key="GridCell.Tab.2.center" timestamp="1587051419273">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.2.center/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419273" />
+    <state width="1554" height="239" key="GridCell.Tab.2.center/0.207.3520.832@0.207.3520.832" timestamp="1586987385976" />
+    <state width="1554" height="239" key="GridCell.Tab.2.center/0.27.1600.832@0.27.1600.832" timestamp="1586901398512" />
+    <state width="1554" height="216" key="GridCell.Tab.2.left" timestamp="1587051419273">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.2.left/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419273" />
+    <state width="1554" height="239" key="GridCell.Tab.2.left/0.207.3520.832@0.207.3520.832" timestamp="1586987385976" />
+    <state width="1554" height="239" key="GridCell.Tab.2.left/0.27.1600.832@0.27.1600.832" timestamp="1586901398512" />
+    <state width="1554" height="216" key="GridCell.Tab.2.right" timestamp="1587051419273">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.2.right/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419273" />
+    <state width="1554" height="239" key="GridCell.Tab.2.right/0.207.3520.832@0.207.3520.832" timestamp="1586987385976" />
+    <state width="1554" height="239" key="GridCell.Tab.2.right/0.27.1600.832@0.27.1600.832" timestamp="1586901398512" />
+    <state width="1554" height="216" key="GridCell.Tab.3.bottom" timestamp="1587051419273">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.3.bottom/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419273" />
+    <state width="1554" height="239" key="GridCell.Tab.3.bottom/0.207.3520.832@0.207.3520.832" timestamp="1586987385977" />
+    <state width="1554" height="239" key="GridCell.Tab.3.bottom/0.27.1600.832@0.27.1600.832" timestamp="1586901398513" />
+    <state width="1554" height="216" key="GridCell.Tab.3.center" timestamp="1587051419273">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.3.center/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419273" />
+    <state width="1554" height="239" key="GridCell.Tab.3.center/0.207.3520.832@0.207.3520.832" timestamp="1586987385977" />
+    <state width="1554" height="239" key="GridCell.Tab.3.center/0.27.1600.832@0.27.1600.832" timestamp="1586901398512" />
+    <state width="1554" height="216" key="GridCell.Tab.3.left" timestamp="1587051419273">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.3.left/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419273" />
+    <state width="1554" height="239" key="GridCell.Tab.3.left/0.207.3520.832@0.207.3520.832" timestamp="1586987385977" />
+    <state width="1554" height="239" key="GridCell.Tab.3.left/0.27.1600.832@0.27.1600.832" timestamp="1586901398512" />
+    <state width="1554" height="216" key="GridCell.Tab.3.right" timestamp="1587051419273">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.3.right/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419273" />
+    <state width="1554" height="239" key="GridCell.Tab.3.right/0.207.3520.832@0.207.3520.832" timestamp="1586987385977" />
+    <state width="1554" height="239" key="GridCell.Tab.3.right/0.27.1600.832@0.27.1600.832" timestamp="1586901398512" />
+    <state width="1554" height="216" key="GridCell.Tab.4.bottom" timestamp="1587051419274">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.4.bottom/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419274" />
+    <state width="1554" height="239" key="GridCell.Tab.4.bottom/0.207.3520.832@0.207.3520.832" timestamp="1586987385978" />
+    <state width="1554" height="239" key="GridCell.Tab.4.bottom/0.27.1600.832@0.27.1600.832" timestamp="1586901398513" />
+    <state width="1554" height="216" key="GridCell.Tab.4.center" timestamp="1587051419274">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.4.center/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419274" />
+    <state width="1554" height="239" key="GridCell.Tab.4.center/0.207.3520.832@0.207.3520.832" timestamp="1586987385977" />
+    <state width="1554" height="239" key="GridCell.Tab.4.center/0.27.1600.832@0.27.1600.832" timestamp="1586901398513" />
+    <state width="1554" height="216" key="GridCell.Tab.4.left" timestamp="1587051419274">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.4.left/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419274" />
+    <state width="1554" height="239" key="GridCell.Tab.4.left/0.207.3520.832@0.207.3520.832" timestamp="1586987385977" />
+    <state width="1554" height="239" key="GridCell.Tab.4.left/0.27.1600.832@0.27.1600.832" timestamp="1586901398513" />
+    <state width="1554" height="216" key="GridCell.Tab.4.right" timestamp="1587051419274">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="1554" height="216" key="GridCell.Tab.4.right/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587051419274" />
+    <state width="1554" height="239" key="GridCell.Tab.4.right/0.207.3520.832@0.207.3520.832" timestamp="1586987385978" />
+    <state width="1554" height="239" key="GridCell.Tab.4.right/0.27.1600.832@0.27.1600.832" timestamp="1586901398513" />
+    <state width="800" height="417" key="XDebugger.FullValuePopup" timestamp="1587050875483">
+      <screen x="0" y="207" width="1600" height="832" />
+    </state>
+    <state width="800" height="417" key="XDebugger.FullValuePopup/0.207.1600.832/1600.0.1920.1080@0.207.1600.832" timestamp="1587050875483" />
+    <state width="800" height="417" key="XDebugger.FullValuePopup/0.27.1600.832@0.27.1600.832" timestamp="1586901175362" />
+    <state x="464" y="88" width="672" height="676" key="search.everywhere.popup" timestamp="1586669105398">
+      <screen x="0" y="27" width="1600" height="832" />
+    </state>
+    <state x="464" y="88" width="672" height="676" key="search.everywhere.popup/0.27.1600.832@0.27.1600.832" timestamp="1586669105398" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/WEB/Controllers/AtividadeController.cs</url>
+          <line>23</line>
+          <properties documentPath="$PROJECT_DIR$/WEB/Controllers/AtividadeController.cs" initialLine="22">
+            <startOffsets>
+              <option value="655" />
+            </startOffsets>
+            <endOffsets>
+              <option value="691" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BLL/Atividades/Services/AtividadeMigracao.cs</url>
+          <line>71</line>
+          <properties documentPath="$PROJECT_DIR$/BLL/Atividades/Services/AtividadeMigracao.cs" initialLine="69">
+            <startOffsets>
+              <option value="2157" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2201" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BLL/Atendimentos/Services/BuscadorDados.cs</url>
+          <line>61</line>
+          <properties documentPath="$PROJECT_DIR$/BLL/Atendimentos/Services/BuscadorDados.cs" initialLine="61">
+            <startOffsets>
+              <option value="1774" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1826" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BLL/Atendimentos/Services/BuscadorDados.cs</url>
+          <line>71</line>
+          <properties documentPath="$PROJECT_DIR$/BLL/Atendimentos/Services/BuscadorDados.cs" initialLine="71">
+            <startOffsets>
+              <option value="2142" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2181" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BLL/Atendimentos/Services/BuscadorDados.cs</url>
+          <line>111</line>
+          <properties documentPath="$PROJECT_DIR$/BLL/Atendimentos/Services/BuscadorDados.cs" initialLine="111">
+            <startOffsets>
+              <option value="3811" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3812" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

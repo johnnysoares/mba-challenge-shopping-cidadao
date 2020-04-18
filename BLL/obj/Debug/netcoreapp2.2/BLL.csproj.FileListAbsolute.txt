@@ -1,0 +1,14 @@
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/bin/Debug/netcoreapp2.2/BLL.deps.json
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/bin/Debug/netcoreapp2.2/BLL.dll
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/bin/Debug/netcoreapp2.2/BLL.pdb
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/bin/Debug/netcoreapp2.2/DAL.dll
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/bin/Debug/netcoreapp2.2/DAL.pdb
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/obj/Debug/netcoreapp2.2/BLL.csprojAssemblyReference.cache
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/obj/Debug/netcoreapp2.2/BLL.csproj.CoreCompileInputs.cache
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/obj/Debug/netcoreapp2.2/BLL.AssemblyInfoInputs.cache
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/obj/Debug/netcoreapp2.2/BLL.AssemblyInfo.cs
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/obj/Debug/netcoreapp2.2/BLL.csproj.CopyComplete
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/obj/Debug/netcoreapp2.2/BLL.dll
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/obj/Debug/netcoreapp2.2/BLL.pdb
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/bin/Debug/netcoreapp2.2/UTILCommon.dll
+/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/bin/Debug/netcoreapp2.2/UTILCommon.pdb

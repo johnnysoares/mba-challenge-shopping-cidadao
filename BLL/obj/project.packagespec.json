@@ -1,0 +1,83 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/BLL.csproj",
+    "projectName": "BLL",
+    "projectPath": "/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/BLL.csproj",
+    "outputPath": "/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/BLL/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/DAL/DAL.csproj": {
+            "projectPath": "/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/DAL/DAL.csproj"
+          },
+          "/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/UTILCommon/UTILCommon.csproj": {
+            "projectPath": "/home/johnny/Projetos/Outros/MBA/shopping-cidadao/applications/data-transform-net/UTILCommon/UTILCommon.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "FluentValidation.AspNetCore": {
+          "target": "Package",
+          "version": "[8.4.0, )"
+        },
+        "Microsoft.AspNet.WebApi.Client": {
+          "target": "Package",
+          "version": "[5.2.7, )"
+        },
+        "Microsoft.Extensions.Http": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Logging.Abstractions": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Quartz": {
+          "target": "Package",
+          "version": "[3.0.7, )"
+        },
+        "morelinq": {
+          "target": "Package",
+          "version": "[3.3.2, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+    }
+  }
+}
